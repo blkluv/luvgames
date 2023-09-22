@@ -113,24 +113,25 @@ const Home = ({ posts }) => {
               Our Mission
             </h1>
             <p className="text-lg text-gray-300 dark:text-gray-900 xl:mt-2 xl:text-xl">
-              We aim to
+              We've minted
               <span className="bg-gradient-to-tl from-[#1f6c8a] to-[#34E89E] bg-clip-text font-semibold text-transparent">
                 {' '}
-                encourage youth engagement
+                1 billion $LUV 
               </span>{' '}
-              and interest in medical knowledge in order to promote youth based medical-related
-              advocacy through an array of different mediums:
+               tokens, which are not available for purchase. Instead, we convert donations into 
+               $LUV rewards to drive global positive impact powering our purpose economy.
             </p>
             <MissionItems />
             <br />
             <br />
             <div className="flex flex-col gap-2" id="topics">
               <h1 className="text-3xl font-bold leading-9 tracking-tight xl:text-4xl">
-                Upcoming Topics
+                Upcoming Quests
               </h1>
               <p className="xl:text-lg">
-                Every month has a dedicated disease/disorder that our blog will be focusing on, with
-                new blog posts coming out every week. Here's what you can look forward to in the
+                Every month we will announce new quests in partnerships with the biggest brands
+                and influencers to discover who has the best $LUV 
+
                 upcoming months:
               </p>
               <div className="grid h-auto grid-flow-col gap-2 overflow-x-scroll rounded-lg pb-2">
@@ -140,10 +141,10 @@ const Home = ({ posts }) => {
             <div className="my-24 flex h-auto flex-col gap-6">
               <div>
                 <h1 className="mb-2 text-4xl font-extrabold leading-9 tracking-tight text-white dark:text-black xl:text-6xl">
-                  Our Team
+                  Quest Hereos 
                 </h1>
                 <h2 className="text-md text-gray-100 dark:text-gray-800 xl:text-lg">
-                  Meet the wonderful team behind the mission!
+                  We acknowledge our LUV Games heroes.
                 </h2>
               </div>
               <div className="flex flex-col items-center">
@@ -200,13 +201,15 @@ const Home = ({ posts }) => {
           <div className="mx-5 my-24 flex w-full flex-col gap-8 rounded-lg p-4 text-black dark:text-white">
             <div>
               <h1 className="mb-2 text-4xl font-extrabold tracking-tight xl:text-5xl">
-                Join Our Mission
+                Join Our Purpose
               </h1>
               <p className="text-lg text-gray-900 dark:text-gray-300 xl:text-xl">
                 <span className="bg-gradient-to-tr from-[#1f6c8a] to-[#34E89E] bg-clip-text font-semibold text-transparent">
-                  DiscussMed
+                  BLK LUV org
                 </span>{' '}
-                aims to bridge medical advocacy communities with future generations. Apply below to
+                created a new purpose economy that solved our profit economy issues with our currency. 
+                Once you earn $LUV you can barter it among our tribe for services and products.
+                Apply below to
                 join{' '}
                 <span className="bg-gradient-to-tr from-[#1f6c8a] to-[#34E89E] bg-clip-text font-semibold text-transparent">
                   the team
@@ -214,9 +217,9 @@ const Home = ({ posts }) => {
                 !
               </p>
             </div>
-            <Link className="w-min" href={'https://forms.gle/QhEee9v2BiszeenM8'}>
+            <Link className="w-min" href={'https://zealy.io/c/luvnft/questboard'}>
               <div className="w-min select-none whitespace-nowrap rounded-lg bg-gradient-to-tr from-[#1e7a9f] to-[#26c784] px-6 py-3 text-lg font-semibold text-gray-50 shadow-md shadow-[#0F3443] transition-[5s] ease-linear hover:hue-rotate-15 active:scale-95">
-                Apply Now
+                Start Quest
               </div>
             </Link>
             <div>
@@ -224,11 +227,11 @@ const Home = ({ posts }) => {
                 Become a partner
               </h1>
               <p className="text-lg text-gray-900 dark:text-gray-300 xl:text-xl">
-                We're always looking for ways to{' '}
+                {' '}
                 <span className="bg-gradient-to-bl from-[#1f6c8a] to-[#34E89E] bg-clip-text font-semibold text-transparent">
-                  expand our outreach
+                63% of Gen Z
                 </span>{' '}
-                and increase visibility. If you run a club or organization, feel free to apply
+                prefers companies with a purpose-driven brand. Star your marketing campaign today, apply
                 below.{' '}
               </p>
             </div>

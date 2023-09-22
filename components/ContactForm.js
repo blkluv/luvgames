@@ -67,7 +67,7 @@ export const ContactForm = () => {
           value={values.emailBody}
           onChange={handleInputChange}
           id="emailBody"
-          placeholder="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+          placeholder=" I wan't to partner to spread $LUV"
           name="emailBody"
           rows="6"
           cols="50"
