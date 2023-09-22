@@ -14,7 +14,7 @@ const partnerships = [
   {
     name: 'Roslyn Mental Health Awareness Club',
     description: `DiscussMed is currently working with the Roslyn Mental Health Awareness Club to create a mental health awareness and advocacy resource to be distributed at local community centers. The goal of this resource is to destigmatize mental health issues and create a more open and inclusive society.`,
-    imgSrc: 'roslynmhapartner.jpg',
+    imgSrc: 'linkedin.png',
     href: 'https://docs.google.com/presentation/d/1Zl6iWRmjtGvvd3nmZGE3Leai_xKXLQ84FNJZYV_VYw4/embed',
   },
   /*{

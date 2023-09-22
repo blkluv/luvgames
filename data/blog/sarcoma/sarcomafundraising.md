@@ -2,7 +2,7 @@
 title: 'Fundraising Against Sarcoma'
 date: '10/23/21'
 tags: ['sarcoma', 'fundraising']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'An overview, description, and commentary of some of the top fundraisers in the fight against sarcoma.'
 ---

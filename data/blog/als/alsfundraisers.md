@@ -2,7 +2,7 @@
 title: 'Fundraising Against ALS'
 date: '3/26/22'
 tags: ['als', 'fundraising']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'How can you get involved in the fight against ALS? This post will provide many different fundraisers which you can get involved in to help defeat ALS.'
 ---

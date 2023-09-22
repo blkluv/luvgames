@@ -2,7 +2,7 @@
 title: "What Is Crohn's Disease?"
 date: '12/10/22'
 tags: ["crohn's-disease", 'what-is']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: "In this blog post, we discuss what Crohn's disease is and its various types and causes. This post is a great place to build a foundational understanding of the disease."
 ---

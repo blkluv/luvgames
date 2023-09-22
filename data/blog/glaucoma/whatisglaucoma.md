@@ -2,7 +2,7 @@
 title: 'What Is Glaucoma?'
 date: '9/4/21'
 tags: ['glaucoma', 'what-is']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'A general overview of what glaucoma is, risk factors associated with it, and different types of it.'
 ---

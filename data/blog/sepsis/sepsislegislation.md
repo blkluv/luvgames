@@ -2,7 +2,7 @@
 title: 'Legislation Targeting Sepsis'
 date: '9/24/22'
 tags: ['sepsis', 'legislation']
-authors: ['wayne', 'jake']
+authors: ['wayne', 'hahz']
 draft: false
 summary: 'High-Mobility Group Box-1 protein is a pro-inflammatory cytokine that is a marker of sepsis. Future focus on understanding its role in inflammation and ways to regulate its release may be the key to treating sepsis.'
 ---

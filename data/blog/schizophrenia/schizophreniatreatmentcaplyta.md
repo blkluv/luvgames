@@ -2,7 +2,7 @@
 title: 'Schizophrenia Treatment: Caplyta'
 date: '11/20/21'
 tags: ['schizophrenia', 'treatment']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'A detailed discussion of the use of immunotherapy rather than chemotherapy as a means to treat sarcoma.'
 ---

@@ -2,7 +2,7 @@
 title: 'Landmark Legislation in the Fight Against Alzheimers'
 date: '1/22/22'
 tags: ['alzheimers', 'legislation']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'An in-depth investigation of the major pieces of national legislation that have greatly impacted the fight against Alzheimers disease.'
 ---

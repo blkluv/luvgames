@@ -2,7 +2,7 @@
 title: 'Notable Organizations Fighting Glaucoma'
 date: '9/25/21'
 tags: ['glaucoma', 'organizations']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'In this blog post, we will provide summaries of the goals and missions of some of the major organizations involved in defeating glaucoma.'
 ---

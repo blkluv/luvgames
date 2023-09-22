@@ -2,7 +2,7 @@
 title: 'Alzheimers -- Signs, Stats, and Facts'
 date: '1/8/22'
 tags: ['alzheimers', 'info']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'What symptoms are associated with Alzheimers disease? What are some statistics to help understand the scope and pervasiveness of Alzheimers disease? What are some interesting facts about the disease? The following blog post will explore these questions and more.'
 ---

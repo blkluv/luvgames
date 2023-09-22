@@ -2,7 +2,7 @@
 title: 'Fight Stomach Cancer Through These Organizations'
 date: '11/26/22'
 tags: ['stomach-cancer', 'organizations']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'This blog post provides basic information about some notable organizations that are leading the fight against gastric cancer. It also discusses what makes each organization unique and some opportunities to get involved.'
 ---

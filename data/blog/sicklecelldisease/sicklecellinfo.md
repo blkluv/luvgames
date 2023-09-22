@@ -2,7 +2,7 @@
 title: 'Sickle Cell Disease-- Signs, Stats, and Facts'
 date: '7/10/21'
 tags: ['sickle-cell-disease', 'info']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'Description of the signs, statistics, and interesting facts commonly associated with sickle cell disease '
 ---

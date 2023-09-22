@@ -2,7 +2,7 @@
 title: 'What Is ALS?'
 date: '3/5/22'
 tags: ['als', 'what-is']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'What is ALS? That is the main question this blog post aims to tackle by discussing and simplifying the biology behind the disease and connecting it to its possible causes.'
 ---

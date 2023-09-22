@@ -2,7 +2,7 @@
 title: 'Arthritis-- Biological DMARDS'
 date: '8/20/22'
 tags: ['arthritis', 'info']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'A discussion of the innovation of biologics from a molecular standpoint and its importance in treating arthritis.'
 ---

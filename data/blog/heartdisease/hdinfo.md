@@ -2,7 +2,7 @@
 title: 'Heart Disease-- Signs, Stats, and Facts'
 date: '4/9/22'
 tags: ['heart-disease', 'info']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'A comprehensive discussion of the basic information about heart disease such as symptoms, risk factors, statistics, and facts. '
 ---

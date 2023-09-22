@@ -1,81 +1,40 @@
-import placeholder from '../public/static/images/placeholder.png'
-import jake from '../public/static/images/team/jake.png'
-import stanley from '../public/static/images/team/stanley.png'
-import amanda from '../public/static/images/team/amanda.png'
-import maxx from '../public/static/images/team/maxx.png'
-import kevin from '../public/static/images/team/kevin.png'
-import wayne from '../public/static/images/team/wayne.png'
-import xintong from '../public/static/images/team/xintong.jpg'
-import harini from '../public/static/images/team/harini.jpg'
-import magdeline from '../public/static/images/team/magdeline.jpg'
-import gwyneth from '../public/static/images/team/gwyneth.jpg'
-import paeto from '../public/static/images/team/paeto.jpg'
+import candy from '../public/static/images/team/candy.png'
+import hahz from '../public/static/images/team/hahz.png'
+import lamar from '../public/static/images/team/lamar.png'
+import cameron from '../public/static/images/team/cameron.jpg'
+import james from '../public/static/images/team/james.jpg'
+import alicia from '../public/static/images/team/alicia.jpg'
 
 const teamData = [
   {
-    name: 'Jake Konigsberg',
-    role: 'founder',
-    img: jake,
+    name: 'Dr. Candy Terry',
+    role: 'co-founder',
+    img: candy,
   },
   {
-    name: 'Stanley Zhao',
-    role: 'web',
-    img: stanley,
+    name: '"The Wizard of Hahz" Terry',
+    role: 'co-founder',
+    img: hahz,
   },
   {
-    name: 'Amanda Liswood',
-    role: 'research',
-    img: amanda,
+    name: 'Alicia',
+    role: 'hero',
+    img: alicia,
   },
   {
-    name: 'Pradnya Ns',
-    role: 'research',
-    img: placeholder,
+    name: 'Lamar Jackson',
+    role: 'hero',
+    img: lamar,
   },
   {
-    name: 'Gwyneth Trinidad',
-    role: 'research',
-    img: gwyneth,
+    name: 'Cameron Thomas',
+    role: 'hero',
+    img: cameron,
   },
   {
-    name: 'Paeto Wangweera',
-    role: 'research',
-    img: paeto,
-  },
-  {
-    name: 'Kevin Zhang',
-    role: 'content',
-    img: kevin,
-  },
-  {
-    name: 'Wayne Shih',
-    role: 'content',
-    img: wayne,
-  },
-  {
-    name: 'Magdeline Gomes',
-    role: 'content',
-    img: magdeline,
-  },
-  {
-    name: 'Maxx Yung',
-    role: 'community',
-    img: maxx,
-  },
-  {
-    name: 'Harini Senthilkumar',
-    role: 'community',
-    img: harini,
-  },
-  {
-    name: 'Xintong Lu',
-    role: 'community',
-    img: xintong,
-  },
-  {
-    name: 'Awab Ahmed',
-    role: 'community',
-    img: placeholder,
+    name: 'James Henderson',
+    role: 'hero',
+    img: james,
   },
 ]
 

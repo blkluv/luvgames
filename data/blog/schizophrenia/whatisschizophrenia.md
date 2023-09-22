@@ -2,7 +2,7 @@
 title: 'What Is Schizophrenia?'
 date: '11/6/21'
 tags: ['schizophrenia', 'what-is']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'A review of what schizophrenia is and the various types and causes associated with it.'
 ---

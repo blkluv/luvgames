@@ -2,7 +2,7 @@
 title: 'Treatment of Alzheimers disease'
 date: '1/31/22'
 tags: ['alzheimers', 'research']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'In this post, we summarized research which was a synthesis of the possible ways Alzheimers treatments may work to mitigate the effects of the disease.'
 ---

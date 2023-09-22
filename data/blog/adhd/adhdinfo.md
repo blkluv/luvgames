@@ -2,7 +2,7 @@
 title: 'ADHD-- Signs, Stats, and Facts'
 date: '8/14/21'
 tags: ['adhd', 'info']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'An overview of essential information about ADHD such as the symptoms, statistics, and interesting facts'
 ---

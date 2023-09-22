@@ -2,7 +2,7 @@
 title: 'What Is AIDS?'
 date: '6/4/22'
 tags: ['aids', 'what-is']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'How is AIDS spread? What is the difference between AIDS and HIV? How does HIV result in AIDS? These are the questions that are the focus of this blog post.'
 ---

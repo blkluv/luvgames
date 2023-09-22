@@ -2,7 +2,7 @@
 title: 'What Is Stomach Cancer?'
 date: '11/5/22'
 tags: ['stomach-cancer', 'what-is']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'This blog post provides an in-depth discussion of what stomach cancer is. Beyond that, it explores the common types and possible causes of this disease.'
 ---

@@ -2,7 +2,7 @@
 title: 'Multiple Sclerosis-- Signs, Stats, and Facts'
 date: '5/14/22'
 tags: ['multiple-sclerosis', 'info']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'What are the signs and symptoms of MS? How common is MS? Who is most at risk of developing MS? These questions and more are the focus points of this blog.'
 ---

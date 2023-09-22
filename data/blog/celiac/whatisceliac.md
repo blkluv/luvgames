@@ -2,7 +2,7 @@
 title: 'What Is Celiac?'
 date: '3/4/23'
 tags: ['celiac', 'what-is']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'This blog post provides a thorough breakdown of what celiac disease is alongside its types and possible causes'
 ---

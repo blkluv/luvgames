@@ -2,7 +2,7 @@
 title: 'What Is Multiple Sclerosis?'
 date: '5/7/22'
 tags: ['multiple-sclerosis', 'what-is']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'This post breaks down the biology behind multiple sclerosis and its possible causes.'
 ---

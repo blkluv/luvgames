@@ -2,7 +2,7 @@
 title: 'Diabetes Treatment: Insulin Therapy'
 date: '1/21/23'
 tags: ['diabetes', 'treatment']
-authors: ['magdeline', 'jake']
+authors: ['magdeline', 'hahz']
 draft: false
 summary: 'A discussion of insulin therapy, a common treatment for diabetes. In this post, we also break down the various types of insulin therapy.'
 ---

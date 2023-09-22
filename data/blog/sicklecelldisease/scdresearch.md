@@ -2,7 +2,7 @@
 title: 'Long-term results of related myeloablative stem-cell transplantation to cure sickle cell disease'
 date: '7/31/21'
 tags: ['sickle-cell-disease', 'research']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'This post is a summary of a study aiming at increasing the success rate of bone marrow transplants. We also hope to break down the complex concepts and terms used to make this information more accessible.'
 ---

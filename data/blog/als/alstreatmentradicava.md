@@ -2,7 +2,7 @@
 title: 'ALS Treatment: Radicava'
 date: '3/19/22'
 tags: ['als', 'treatment']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'Did you know there are currently only two treatments available for ALS? We will review one of the approved and effective treatments here.'
 ---

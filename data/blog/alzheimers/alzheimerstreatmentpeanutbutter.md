@@ -2,7 +2,7 @@
 title: 'Diagnosing Alzheimers Through Peanut Butter?'
 date: '1/15/22'
 tags: ['alzheimers', 'treatment']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'Did you know that you can use peanut butter to test whether someone has Alzheimers disease? We will use this blog to explore this odd test and why it works.'
 ---

@@ -2,7 +2,7 @@
 title: 'AIDS Treatment: Cabenuva'
 date: '6/18/22'
 tags: ['aids', 'treatment']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'Cabenuva is a novel treatment method that assists in neutralizing HIV to ensure that it does not further develop into AIDS.'
 ---

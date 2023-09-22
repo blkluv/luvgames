@@ -2,7 +2,7 @@
 title: 'Sarcoma Treatment: Immunotherapy'
 date: '10/16/21'
 tags: ['sarcoma', 'treatment']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'A detailed discussion of the use of immunotherapy rather than chemotherapy as a means to treat sarcoma.'
 ---

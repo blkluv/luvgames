@@ -2,7 +2,7 @@
 title: 'The Organizations Fighting Autism'
 date: '2/25/22'
 tags: ['autism', 'organizations']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'This blog post will review some notable organizations that are leading the fight against autism.'
 ---

@@ -2,7 +2,7 @@
 title: 'Meet the Leading Organizations Fighting Arthritis'
 date: '8/27/22'
 tags: ['arthritis', 'info']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'This post provides overviews of many trailblazing organizations playing significant roles in helping bring an end to arthritis. This resource is great for those hoping to find new organizations to take part in.'
 ---

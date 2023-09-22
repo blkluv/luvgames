@@ -118,8 +118,8 @@ const Home = ({ posts }) => {
                 {' '}
                 gaming for good
               </span>{' '}
-              to help the world find their purpose and volenteer their time to help others locally
-              to become the number hero in their city.
+              to help people around the world find their purpose and volunteer their time to assist
+              others locally, becoming the number one hero in their city.
             </p>
             <MissionItems />
             <br />
@@ -202,16 +202,11 @@ const Home = ({ posts }) => {
                 Join Our Purpose
               </h1>
               <p className="text-lg text-gray-900 dark:text-gray-300 xl:text-xl">
-                <span className="relative">
-                  <span className="absolute inset-0 bg-gradient-to-tr from-[#1f6c8a] to-[#34E89E] bg-clip-text text-transparent">
-                    BLK LUV org
-                  </span>{' '}
-                  created a new fun non-profit blueprint to challenge the world to do better. Get{' '}
-                  <span className="absolute inset-0 bg-gradient-to-tr from-[#1f6c8a] to-[#34E89E] bg-clip-text text-transparent">
-                    started
-                  </span>
-                </span>
-                !
+                Join the reVULution on a mission to{' '}
+                <span className="bg-gradient-to-bl from-[#1f6c8a] to-[#34E89E] bg-clip-text font-semibold text-transparent">
+                  change the world.
+                </span>{' '}
+                Join our team, and network like hearts around the world.{' '}
               </p>
             </div>
             <Link className="w-min" href={'https://forms.gle/QhEee9v2BiszeenM8'}>
@@ -228,7 +223,8 @@ const Home = ({ posts }) => {
                 <span className="bg-gradient-to-bl from-[#1f6c8a] to-[#34E89E] bg-clip-text font-semibold text-transparent">
                   63% of Gen Z
                 </span>{' '}
-                prefers companies with a purpose-driven brand, feel free to apply below.{' '}
+                prefers companies with a purpose-driven brand, apply below for your proof overflow
+                donation marketing campaign "IN $LUV WE TRUST".{' '}
               </p>
             </div>
             <Link className="w-min" href={'https://forms.gle/oPic8fVadWLP6u9i6'}>
@@ -238,7 +234,7 @@ const Home = ({ posts }) => {
             </Link>
             <div>
               <h1 className="mb-2 text-3xl font-extrabold leading-9 tracking-tight xl:text-4xl">
-                Proud partners
+                Top 3 Donors
               </h1>
               <div className="flex flex-col items-center rounded-2xl bg-white px-4 py-2 drop-shadow-lg">
                 <PartnerRow />

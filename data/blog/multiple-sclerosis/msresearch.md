@@ -2,7 +2,7 @@
 title: 'The challenge of multiple sclerosis: How do we cure a chronic heterogenic disease?'
 date: '5/31/22'
 tags: ['multiple-sclerosis', 'research']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'In this post, we aim to describe research focusing on the different paths and considerations in treating or preventing multiple sclerosis. .'
 ---

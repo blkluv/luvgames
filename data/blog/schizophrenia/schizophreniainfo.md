@@ -2,7 +2,7 @@
 title: 'Schizophrenia-- Signs, Stats, and Facts'
 date: '11/13/21'
 tags: ['schizophrenia', 'info']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'An analysis of the symptoms, statistics, and interesting facts related to schizophrenia.'
 ---

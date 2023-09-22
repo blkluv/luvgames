@@ -2,7 +2,7 @@
 title: 'If there is not one cure for schizophrenia, there may be many'
 date: '11/30/21'
 tags: ['schizophrenia', 'research']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'There are many different types of schizophrenia with each case being unique. As a result, the quest to treat and ultimately cure schizophrenia must also be on an individual basis. This post will investigate and make more accessible research which discusses the possibility of making individualized cures to schizophrenia.'
 ---

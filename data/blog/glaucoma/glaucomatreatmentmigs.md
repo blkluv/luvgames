@@ -2,7 +2,7 @@
 title: 'Glaucoma Treatment: MIGS'
 date: '9/18/21'
 tags: ['glaucoma', 'treatment']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'This is an in-depth yet accessible review of a novel and innovative treatment method for glaucoma: micro invasive glaucoma surgery.'
 ---

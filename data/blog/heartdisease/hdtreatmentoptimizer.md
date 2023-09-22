@@ -2,7 +2,7 @@
 title: 'Heart Disease Treatment: OPTIMIZER Smart Mini'
 date: '4/16/22'
 tags: ['heart-disease', 'treatment']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'How can heart disease be treated? This post will investigate the use of OPTIMIZER Smart interventions as a way to treat heart failure (a type of heart disease).'
 ---

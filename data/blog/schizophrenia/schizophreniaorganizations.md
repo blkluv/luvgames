@@ -2,7 +2,7 @@
 title: 'What Organizations Fighting Schizophrenia Should You Get Involved With?'
 date: '11/27/21'
 tags: ['schizophrenia', 'organizations']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'How can you make an impact in fighting schizophrenia? Where can you start? What organizations are leading this fight? These are the questions that we will explore the answers to in this blog post.'
 ---

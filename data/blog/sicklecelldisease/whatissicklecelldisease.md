@@ -2,7 +2,7 @@
 title: 'What Is Sickle Cell Disease?'
 date: '7/3/21'
 tags: ['sickle-cell-disease', 'what-is']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'An overview of what having sickle cell disease means and the probable causes and risk factors associated with it.'
 ---

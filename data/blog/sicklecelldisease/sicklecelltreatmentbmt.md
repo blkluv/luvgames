@@ -2,7 +2,7 @@
 title: 'Sickle Cell Disease Treatment: Bone Marrow Transplant'
 date: '7/17/21'
 tags: ['sickle-cell-disease', 'treatment']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'Unlike many diseases discussed on discussmed.org, sickle cell disease can be cured through bone marrow transplants. This blog post will investigate and discuss such transplants.'
 ---

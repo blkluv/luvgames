@@ -2,7 +2,7 @@
 title: 'Glaucoma-- Signs, Stats, and Facts'
 date: '9/11/21'
 tags: ['glaucoma', 'info']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'This blog post aims to discuss and contextualize the symptoms, statistics, and interesting facts commonly associated with glaucoma.'
 ---

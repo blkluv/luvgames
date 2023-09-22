@@ -2,7 +2,7 @@
 title: 'Breast Cancer-- Signs, Stats, and Facts'
 date: '12/18/21'
 tags: ['breast-cancer', 'info']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'An overview of the symptoms, statistics, and facts relating to breast cancer.'
 ---

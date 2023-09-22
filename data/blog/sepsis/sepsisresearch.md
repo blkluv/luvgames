@@ -2,7 +2,7 @@
 title: 'Sepsis biomarkers: A review.'
 date: '9/31/22'
 tags: ['sepsis', 'research']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'The early identification and quick treatment of sepsis are necessary to effectively treat this condition. Therefore, a specific and sensitive biomarker is needed.'
 ---

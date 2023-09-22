@@ -2,7 +2,7 @@
 title: 'Why Partake in ADHD Advocacy?'
 date: '8/28/21'
 tags: ['adhd', 'advocacy']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'A blog post detailing the importance of ADHD advocacy in the fight against the disorder. This blog also provides some opportunities to advocate at various ADHD-fighting organizations.'
 ---

@@ -2,7 +2,7 @@
 title: 'What Is Heart Disease?'
 date: '4/2/22'
 tags: ['heart-disease', 'what-is']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'An investigation of the various types of heart disease and their corresponding possible causes.'
 ---

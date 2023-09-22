@@ -2,7 +2,7 @@
 title: 'AIDS-- Signs, Stats, and Facts'
 date: '6/11/22'
 tags: ['aids', 'info']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'This blog post reviews the common symptoms relating to AIDS and specific statistics and facts to help enhance your understanding of this syndrome.'
 ---

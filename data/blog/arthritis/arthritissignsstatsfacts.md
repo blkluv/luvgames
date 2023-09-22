@@ -2,7 +2,7 @@
 title: 'Arthritis-- Signs, Stats, and Facts'
 date: '8/13/22'
 tags: ['arthritis', 'info']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'An analysis of the commonly associated symptoms of arthritis along with interesting statistics and facts to further aid in understanding the importance in fighting this widespread disease.'
 ---

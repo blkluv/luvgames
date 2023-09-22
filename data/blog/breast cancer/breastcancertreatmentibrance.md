@@ -2,7 +2,7 @@
 title: 'Breast Cancer Treatment: Ibrance'
 date: '12/25/21'
 tags: ['breast-cancer', 'treatment']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'A detailed discussion of the use of immunotherapy rather than chemotherapy as a means to treat sarcoma.'
 ---

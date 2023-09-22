@@ -2,7 +2,7 @@
 title: 'ADHD Treatment: AZSTARYS'
 date: '8/21/21'
 tags: ['adhd', 'treatment']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'AZSTARYS is a novel treatment for ADHD. It is a stimulant that works longer and quicker than other ADHD treatments'
 ---

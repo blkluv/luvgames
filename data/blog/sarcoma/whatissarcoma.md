@@ -2,7 +2,7 @@
 title: 'What Is Sarcoma?'
 date: '10/2/21'
 tags: ['sarcoma', 'what-is']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'A detailed discussion of the what sarcoma is, the different types, and the causes.'
 ---

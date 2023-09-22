@@ -2,7 +2,7 @@
 title: 'Stomach Cancer Treatment: Nivolumab'
 date: '11/19/22'
 tags: ['stomach-cancer', 'treatment']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'This blog post explores the mechanism of action of a novel treatment for metastatic stomach (gastric) cancers known as nivolumab (sold under the brand name OPDIVO). '
 ---

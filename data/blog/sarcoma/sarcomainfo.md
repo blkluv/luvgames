@@ -2,7 +2,7 @@
 title: 'Sarcoma-- Signs, Stats, and Facts'
 date: '10/9/21'
 tags: ['sarcoma', 'info']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'In this blog post, the symptoms of, statistics about, and interesting facts about sarcoma will be explored.'
 ---

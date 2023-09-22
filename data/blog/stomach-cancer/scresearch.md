@@ -2,7 +2,7 @@
 title: 'Gastric cancer: Overview'
 date: '11/30/22'
 tags: ['stomach-cancer', 'research']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'This blog post reviewed a research paper that provided an overview of the causes and treatment of gastric cancer. Read this blog post to learn about the study and its implications for the future.'
 ---

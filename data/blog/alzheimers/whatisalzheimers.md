@@ -2,7 +2,7 @@
 title: 'What Is Alzheimers Disease?'
 date: '1/1/22'
 tags: ['alzheimers', 'what-is']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'This blog post will dive into what Alzheimers is and its possible/probable causes.'
 ---

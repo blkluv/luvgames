@@ -2,7 +2,7 @@
 title: 'Stomach Cancer-- Signs, Stats, and Facts'
 date: '11/12/22'
 tags: ['stomach-cancer', 'info']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'This blog post investigates the common symptoms of gastric cancer, the demographics of those affected by the disease, and informative statistics to provide a basic understanding of the prevalence of it.'
 ---

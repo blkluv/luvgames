@@ -2,7 +2,7 @@
 title: 'Autism Treatment: PAX-101'
 date: '2/19/22'
 tags: ['autism', 'treatment']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'Is there a cure for autism? How do autism treatments work? What does the future of autism treatments look like? These questions and more will be answered in the following blog post.'
 ---

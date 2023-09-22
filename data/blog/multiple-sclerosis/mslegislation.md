@@ -2,7 +2,7 @@
 title: 'Important Legislation Helping Fight Multiple Sclerosis'
 date: '5/28/22'
 tags: ['multiple-sclerosis', 'legislation']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'Passing legislation is essential in advancing the fight against multiple sclerosis in ways not possible through other means.'
 ---

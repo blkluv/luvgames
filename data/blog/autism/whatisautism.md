@@ -2,7 +2,7 @@
 title: 'What Is Autism?'
 date: '2/5/22'
 tags: ['autism', 'what-is']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'An exploration of what autism is and its likely causes.'
 ---

@@ -2,7 +2,7 @@
 title: 'What Organizations Should You Get Involved With to Fight Heart Disease?'
 date: '4/23/22'
 tags: ['heart-disease', 'organizations']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'Which organizations are leading the fight against heart disease? What organizations should I get involved in? These questions are the focus of this blog post.'
 ---

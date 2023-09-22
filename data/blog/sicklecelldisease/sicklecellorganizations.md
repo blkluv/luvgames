@@ -2,7 +2,7 @@
 title: 'Organizations Fighting Against Sickle Cell Disease'
 date: '7/24/21'
 tags: ['sickle-cell-disease', 'organizations']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'This blog post will review some notable organizations that champion the fight against sickle cell disease. The discussion of each organization will be a brief overview of their mission.'
 ---

@@ -2,7 +2,7 @@
 title: 'Multiple Sclerosis Treatment: Ponvory'
 date: '5/21/22'
 tags: ['multiple-sclerosis', 'treatment']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'Ponvory is a novel and recently FDA approved treatment for multiple sclerosis. To learn about how it works and what it does, read this blog post.'
 ---

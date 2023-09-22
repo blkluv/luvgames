@@ -2,7 +2,7 @@
 title: 'ALS-- Signs, Stats, and Facts'
 date: '3/12/22'
 tags: ['als', 'info']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'This blog post will provide some of basic and essential information about ALS, enabling you to be knowledgeable and show you why it is some important to join advocacy efforts in fighting it.'
 ---

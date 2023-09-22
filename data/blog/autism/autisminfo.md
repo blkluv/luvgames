@@ -2,7 +2,7 @@
 title: 'Autism-- Signs, Stats, and Facts'
 date: '2/12/22'
 tags: ['autism', 'info']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'This blog post will investigate some of the most common symptoms, telling statistics, and interesting facts relating to autism.'
 ---

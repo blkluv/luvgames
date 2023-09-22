@@ -2,7 +2,7 @@
 title: 'Factors for glaucoma progression and the effect of treatment'
 date: '9/30/21'
 tags: ['glaucoma', 'research']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'This piece of summarized research focuses on halting the progression of open-angle glaucoma and a new treatment to stop damage to the optic nerve.'
 ---

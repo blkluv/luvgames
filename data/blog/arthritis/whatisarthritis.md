@@ -2,7 +2,7 @@
 title: 'What Is Arthritis?'
 date: '8/6/22'
 tags: ['arthritis', 'what-is']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'A discussion of what arthritis is alongside the types and causes of it.'
 ---

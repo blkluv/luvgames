@@ -2,7 +2,7 @@
 title: 'Treatment with arimoclomol, a conducer of heat shock proteins, delays disease progression of ALS in mice'
 date: '3/31/22'
 tags: ['als', 'research']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'In this post, we focus on summarizing and synthesizing research that has found promising results in prolonging the lifespan of those afflicted with ALS.'
 ---

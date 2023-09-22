@@ -2,7 +2,7 @@
 title: 'AIDS Advocacy: What Is It?'
 date: '6/25/22'
 tags: ['aids', 'advocacy']
-authors: ['jake']
+authors: ['hahz']
 draft: false
 summary: 'A blog detailing the importance of ADHD advocacy in the fight against the disorder. This blog also provides some opportunities to advocate at various ADHD-fighting organizations.'
 ---

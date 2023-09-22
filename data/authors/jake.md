@@ -1,5 +1,5 @@
 ---
-name: Jake Konigsberg
-avatar: /static/images/team/jake.png
-occupation: Founder
+name: Dr. Terry
+avatar: /static/images/team/candy.png
+occupation: Co-Founder
 ---
