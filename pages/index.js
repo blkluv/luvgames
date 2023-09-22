@@ -1,31 +1,34 @@
-import Link from '../components/Link'
-import SectionContainer from '../components/SectionContainer'
-import upcomingTopics from '@/data/upcomingTopics'
-import Footer from '../components/Footer'
-import dayjs from 'dayjs'
-import MissionItems from '@/components/MissionItems'
-import Tag from '@/components/Tag'
-import { getAllFilesFrontMatter } from '@/lib/mdx'
-import formatDate from '@/lib/utils/formatDate'
-import { ContactForm } from '@/components/ContactForm'
-import TeamMembers from '@/components/TeamMembers'
-import { PartnerRow } from '@/components/PartnerRow'
-import { useState, useEffect } from 'react'
-import PWA from '@/components/PWA'
+import React, { useState, useEffect } from 'react';
+import Link from '../components/Link';
+import SectionContainer from '../components/SectionContainer';
+import upcomingTopics from '@/data/upcomingTopics';
+import Footer from '../components/Footer';
+import dayjs from 'dayjs';
+import MissionItems from '@/components/MissionItems';
+import Tag from '@/components/Tag';
+import { getAllFilesFrontMatter } from '@/lib/mdx';
+import formatDate from '@/lib/utils/formatDate';
+import { ContactForm } from '@/components/ContactForm';
+import TeamMembers from '@/components/TeamMembers';
+import { PartnerRow } from '@/components/PartnerRow';
+import PWA from '@/components/PWA';
 
-const MAX_DISPLAY = 10
+const MAX_DISPLAY = 10;
 
 export async function getStaticProps() {
-  const posts = await getAllFilesFrontMatter('blog')
-  const isHome = true
+  const posts = await getAllFilesFrontMatter('blog');
+  const isHome = true;
 
-  return { props: { isHome, posts } }
+  return { props: { isHome, posts } };
 }
-let customParseFormat = require('dayjs/plugin/customParseFormat')
-dayjs.extend(customParseFormat)
 
-const topics = []
-upcomingTopics.sort((a, b) => dayjs(a.date, 'M/YY').valueOf() - dayjs(b.date, 'M/YY').valueOf())
+let customParseFormat = require('dayjs/plugin/customParseFormat');
+dayjs.extend(customParseFormat);
+
+const topics = [];
+upcomingTopics.sort((a, b) =>
+  dayjs(a.date, 'M/YY').valueOf() - dayjs(b.date, 'M/YY').valueOf()
+);
 upcomingTopics.forEach((e, key) => {
   if (dayjs().isSame(dayjs(e.date, 'M/YY'), 'month')) {
     topics.push(
@@ -33,12 +36,14 @@ upcomingTopics.forEach((e, key) => {
         className="h-auto w-64 whitespace-nowrap rounded-lg bg-[#2b2929] px-4 py-2 drop-shadow-md dark:bg-gray-50"
         key={key}
       >
-        <h1 className="text-xl font-semibold text-white dark:text-black">{e.name}</h1>
+        <h1 className="text-xl font-semibold text-white dark:text-black">
+          {e.name}
+        </h1>
         <h1 className="w-min rounded-md bg-yellow-500 bg-opacity-80 px-1 font-semibold text-gray-100 dark:bg-yellow-300 dark:text-gray-900">
           Current topic!
         </h1>
       </div>
-    )
+    );
   }
   if (dayjs().isBefore(dayjs(e.date, 'M/YY'))) {
     topics.push(
@@ -46,20 +51,24 @@ upcomingTopics.forEach((e, key) => {
         className="h-auto w-64 whitespace-nowrap rounded-lg bg-[#2b2929] px-4 py-2 drop-shadow-md dark:bg-gray-50"
         key={key}
       >
-        <h1 className="text-xl font-semibold text-white dark:text-black">{e.name}</h1>
+        <h1 className="text-xl font-semibold text-white dark:text-black">
+          {e.name}
+        </h1>
         <h1 className="text-gray-100 dark:text-gray-900">
           {dayjs(e.date, 'M/YY').format('MMMM YYYY')}
         </h1>
       </div>
-    )
+    );
   }
-})
+});
 
 const Home = ({ posts }) => {
-  const [isPWA, setIsPWA] = useState(true)
+  const [isPWA, setIsPWA] = useState(true);
+
   useEffect(() => {
-    setIsPWA(window.matchMedia('(display-mode: standalone)').matches)
-  }, [])
+    // Check for PWA status on the client side
+    setIsPWA(window.matchMedia('(display-mode: standalone)').matches);
+  }, []);
 
   return (
     <>
