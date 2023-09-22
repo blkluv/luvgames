@@ -31,7 +31,7 @@ export default function Footer() {
           <div>
             &copy; {startYear == currentYear ? currentYear : `${startYear}-${currentYear}`}{' '}
             {siteMetadata.author}
-            {' | Linkedin '}
+            {' | Follow Us '}
             <Link href={'https://www.linkedin.com/company/69191203/'}>
               <span className="bg-gradient-to-tl from-[#1f6c8a] to-[#34E89E] bg-clip-text font-semibold text-transparent">
                 Linkedin
