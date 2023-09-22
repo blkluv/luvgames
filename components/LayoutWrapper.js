@@ -16,7 +16,7 @@ const LayoutWrapper = ({ children }) => {
   return (
     <>
       <Script
-        src="https://www.googletagmanager.com/gtag/js?id=G-59ZG2JRTHV"
+        src="https://www.googletagmanager.com/gtag/js?id=G-B5BRRT9X1T"
         strategy="afterInteractive"
       ></Script>
       <Script id="google-analytics" strategy="afterInteractive">
@@ -25,7 +25,7 @@ const LayoutWrapper = ({ children }) => {
           function gtag(){dataLayer.push(arguments);}
           gtag('js', new Date());
 
-          gtag('config', 'G-59ZG2JRTHV');
+          gtag('config', 'G-B5BRRT9X1T');
           `}
       </Script>
       <PageSEO title={`${siteMetadata.author}`} description={siteMetadata.description} />
@@ -78,7 +78,8 @@ const LayoutWrapper = ({ children }) => {
                         Universal Basic Income
                       </h1>
                       <h2 className="text-base font-medium leading-6 tracking-tighter dark:text-gray-300 sm:text-base lg:text-lg 2xl:text-2xl">
-                        Earn $LUV by completing our tribe called quests.
+                        Earn $LUV by completing our tribe called quests. We have 1 billion in $LUV
+                        minted to airdrop to our tribe.
                       </h2>
                     </div>
                     <NLink href={'/blog'} passHref={true}>

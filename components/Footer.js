@@ -31,22 +31,18 @@ export default function Footer() {
           <div>
             &copy; {startYear == currentYear ? currentYear : `${startYear}-${currentYear}`}{' '}
             {siteMetadata.author}
-            {' | Logo by '}
-            <Link href={'https://www.linkedin.com/in/andreamediaz/'}>
+            {' | Linkedin '}
+            <Link href={'https://www.linkedin.com/company/69191203/'}>
               <span className="bg-gradient-to-tl from-[#1f6c8a] to-[#34E89E] bg-clip-text font-semibold text-transparent">
-                Andrea Diaz
+                Linkedin
               </span>
             </Link>
           </div>
         </div>
         <div className="mb-8 text-center text-sm text-gray-500 dark:text-gray-400">
-          No part of this website may be reproduced or commercialized in any manner without prior
-          written permission.{' '}
-          <Link
-            href="https://github.com/zhao-stanley/discussmed/blob/main/LICENSE"
-            className="underline"
-          >
-            Learn More.
+          LUV NFT{' '}
+          <Link href="https://luvnft.com" className="underline">
+            Sign up.
           </Link>
         </div>
       </div>

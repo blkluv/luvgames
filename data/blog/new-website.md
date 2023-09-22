@@ -2,7 +2,7 @@
 title: New Website!
 date: '6/27/2022'
 tags: ['website']
-authors: ['stanley']
+authors: ['hahz']
 draft: false
 summary: 'Welcome to DiscussMed! This is the first post of our new blog, where we will be porting over content from our old website.'
 images: []

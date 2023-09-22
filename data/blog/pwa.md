@@ -2,7 +2,7 @@
 title: DiscussMed is now a PWA!
 date: '8/6/2022'
 tags: ['website']
-authors: ['stanley']
+authors: ['hahz']
 draft: false
 summary: 'PWAs, known as Progressive Web Apps, allow you to install a site to your device and use it like a native app, making it much more convenient for you (the user). Read more to learn how.'
 images: []

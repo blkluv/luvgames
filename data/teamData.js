@@ -17,7 +17,7 @@ const teamData = [
     img: hahz,
   },
   {
-    name: 'Alicia',
+    name: 'Alicia Lindell',
     role: 'hero',
     img: alicia,
   },

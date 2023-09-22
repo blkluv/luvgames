@@ -4,9 +4,9 @@
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
-  "name": "DiscussMed",
-  "short_name": "DiscussMed",
-  "description": "Bridging medical advocacy communities with future generations.",
+  "name": "BLK LUV org",
+  "short_name": "BLK LUV org",
+  "description": "$LUV is the universal basic income.",
   "icons": [
     { "src": "/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
     { "src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png" }

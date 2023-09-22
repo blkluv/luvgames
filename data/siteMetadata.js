@@ -1,17 +1,17 @@
 const siteMetadata = {
-  title: 'DiscussMed',
-  author: 'DiscussMed',
-  headerTitle: 'DiscussMed',
-  description: 'Bridging medical advocacy communities with future generations.',
+  title: 'BLK LUV org',
+  author: 'BLK LUV org',
+  headerTitle: 'BLK LUV org',
+  description: '$LUV is the universal basic income',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://discussmed.org',
-  siteRepo: 'https://github.com/zhao-stanley/discussmed',
+  siteUrl: 'https://blkluv.org',
+  siteRepo: 'https://github.com/blkluv/luvgames',
   siteLogo: '/static/images/discussmed.svg',
   image: '/static/images/discussmed.svg',
-  socialBanner: '/static/images/discussmed.png',
-  email: 'discussmed1@gmail.com',
-  github: 'https://github.com/zhao-stanley/discussmed',
+  socialBanner: '/static/images/blkluvorg.png',
+  email: 'info@blkluv.org',
+  github: 'https://github.com/blkluv/luvgames',
   twitter: 'https://twitter.com/',
   facebook: 'https://facebook.com',
   youtube: 'https://youtube.com',
@@ -21,7 +21,7 @@ const siteMetadata = {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
     // googleAnalytics
-    googleAnalyticsId: 'G-59ZG2JRTHV', // e.g. UA-000000-2 or G-XXXXXXX
+    googleAnalyticsId: 'G-B5BRRT9X1T', // e.g. UA-000000-2 or G-XXXXXXX
   },
 }
 
