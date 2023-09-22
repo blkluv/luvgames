@@ -8,12 +8,12 @@ import alicia from '../public/static/images/team/alicia.jpg'
 const teamData = [
   {
     name: 'Dr. Candy Terry',
-    role: 'co-founder',
+    role: 'founder',
     img: candy,
   },
   {
     name: '"The Wizard of Hahz" Terry',
-    role: 'co-founder',
+    role: 'founder',
     img: hahz,
   },
   {
