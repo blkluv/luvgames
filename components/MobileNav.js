@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import Link from './Link'
-import Logo from '../public/static/images/discussmed.svg'
+import Logo from '../public/static/images/blkluvorg.svg'
 import headerNavLinks from '@/data/headerNavLinks'
 
 const MobileNav = () => {

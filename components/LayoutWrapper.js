@@ -1,6 +1,6 @@
 import siteMetadata from '@/data/siteMetadata'
 import headerNavLinks from '@/data/headerNavLinks'
-import Logo from '../public/static/images/discussmed.svg'
+import Logo from '../public/static/images/blkluvorg.svg'
 import Heart from '../public/static/images/heart.svg'
 import Link from './Link'
 import Script from 'next/script'

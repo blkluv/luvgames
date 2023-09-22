@@ -1,7 +1,7 @@
 
 <br />
 <div align="center">
-  <img width="50px" src="/public/static/images/discussmed.svg"/>
+  <img width="50px" src="/public/static/images/blkluvorg.svg"/>
   <h1 align="center">BLK LUV org</h1>
 
   <h3 align="center">

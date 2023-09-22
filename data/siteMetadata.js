@@ -7,8 +7,8 @@ const siteMetadata = {
   theme: 'system', // system, dark or light
   siteUrl: 'https://blkluv.org',
   siteRepo: 'https://github.com/blkluv/luvgames',
-  siteLogo: '/static/images/discussmed.svg',
-  image: '/static/images/discussmed.svg',
+  siteLogo: '/static/images/blkluvorg.svg',
+  image: '/static/images/blkluvorg.svg',
   socialBanner: '/static/images/blkluvorg.png',
   email: 'info@blkluv.org',
   github: 'https://github.com/blkluv/luvgames',
