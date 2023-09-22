@@ -20,9 +20,7 @@ export const PartnerRow = () => {
       </div>
       <div className="flex h-min w-auto max-w-[15vw] flex-col items-center gap-1 lg:max-w-[8rem] lg:gap-0">
         <Image src={linkedin} alt="Roslyn Mental Health Awareness Club" draggable="false" />
-        <span className="select-none text-center text-xs font-semibold leading-3 text-black lg:whitespace-nowrap lg:text-base">
-          Roslyn MHA Club
-        </span>
+        <span className="select-none text-center text-xs font-semibold leading-3 text-black lg:whitespace-nowrap lg:text-base"></span>
       </div>
     </div>
   )
