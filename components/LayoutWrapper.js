@@ -73,7 +73,7 @@ const LayoutWrapper = ({ children }) => {
                   <div className="flex flex-col items-start gap-y-4 lg:gap-y-6 2xl:gap-y-8">
                     <div className="flex flex-col gap-y-2">
                       <h1 className="whitespace-pre bg-gradient-to-tl from-[#26c784] to-[#1e7a9f] bg-clip-text text-3xl font-bold leading-8 tracking-tighter text-transparent sm:text-4xl lg:text-5xl 2xl:text-6xl">
-                        $LUV is the 
+                        $LUV is the
                         <br />
                         Universal Basic Income
                       </h1>
