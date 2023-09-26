@@ -2,7 +2,6 @@
 title: 'Donation PR Campaign For Homeless Barber Darnell Wells'
 date: '9/26/23'
 tags: ['barber', 'memphis']
-authors: ['hahz']
 draft: false
 summary: "Help us locate Darnell Wells who's donating his services to cut homeless people for free."
 ---
