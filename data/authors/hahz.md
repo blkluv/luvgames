@@ -1,5 +1,5 @@
 ---
-name: "The Wizard of Hahz" Terry
+name: Hahz Terry
 avatar: /static/images/team/hahz.png
 occupation: founder
 ---
