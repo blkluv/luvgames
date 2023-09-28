@@ -7,10 +7,10 @@ const token = process.env.NEXT_PUBLIC_COUNTAPI
 
 export default function Footer() {
   useEffect(() => {
-    countapi.hit('discussmed.org', token) //.then((result) => { console.log(result.value) });
+    countapi.hit('blkluv.org', token) //.then((result) => { console.log(result.value) });
   })
 
-  const startDateObj = new Date('January 1, 2022')
+  const startDateObj = new Date('September 28, 2023')
   const currentDateObj = new Date()
   const startYear = startDateObj.getFullYear()
   const currentYear = currentDateObj.getFullYear()

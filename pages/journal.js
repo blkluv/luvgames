@@ -16,64 +16,65 @@ export default function Journal() {
       <div className="divide-y divide-gray-200 pt-28 dark:divide-gray-700">
         <div className="space-y-2 pt-6 pb-8 md:space-y-5">
           <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
-            Journal
+            Donations
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            This is a high school led journal for high school students that have done research in
-            biology or anything with biological applications. The goal of such a journal is to
-            showcase and commend novel, innovative, and impressive research done at a high school
-            level. This journal will be{' '}
+            As a solution to public donation transparency, we will post all donations on our
+            @blkluvorg social media as part of a Purpose PR marketing campaign to showcase proof of
+            $LUV. We have affiliate codes for anyone who wants to participate in finding LUV Game
+            sponsors. Upon finding a sponsor that uses an affiliate's code to subscribe to a monthly
+            donation, we will reward the affiliate with{' '}
             <span className="bg-gradient-to-bl from-[#1f6c8a] to-[#34E89E] bg-clip-text font-semibold text-transparent">
-              updated bi-yearly
+              $LUV.
             </span>{' '}
-            but will accept submissions on a rolling basis.
             <br />
             <br />
-            Accepted research will then be published. Research can be any synthesis, experiment, or
-            modeling project-- there is no expected or required length. As it is understood that
-            many high schoolers do not have write ups, presentations will also be accepted of which
-            will be published in the{' '}
-            <Link href="#sr">
+            Donation subscriptions are called Bronze Medal, Silver Medal and Gold Medal. Each
+            subscription comes with a social media level of Purpse PR marketing campaign. Our Bronze
+            medal subscriptions start at{' '}
+            <Link href="https://buy.stripe.com/6oEg0jh0z5zudGg4gj">
               <span className="bg-gradient-to-bl from-[#1f6c8a] to-[#34E89E] bg-clip-text font-semibold text-transparent">
-                High School Journal of Biological Sciences Symposium
+                $33&nbsp;
               </span>
             </Link>
-            . <br />
+            a month. The Bronze medal subsciption inlcudes an X formally known a Twitter shoutout.
             <br />
-            To submit your research for either the journal or symposium, access the form{' '}
+            <br />
+            Our Silver medal subscription donations start at{' '}
             <Link href="https://docs.google.com/forms/d/e/1FAIpQLSdkQ9JXiyOGYepNyEg2j8CSZMMgcdATBZxMJJZ8fr9QSZEnjQ/viewform">
               <span className="cursor-pointer bg-gradient-to-bl from-[#1f6c8a] to-[#34E89E] bg-clip-text font-semibold text-transparent">
-                here.{' '}
+                $333{' '}
               </span>
             </Link>
-            All research for both the journal and symposium for the next issue will be due on
+            a month and includes a Linkdin article, Instagram Reel and BLK LUV.org blog post. The
+            Gold medal subscription is
             <span className="bg-gradient-to-br from-[#1f6c8a] to-[#34E89E] bg-clip-text font-semibold text-transparent">
               {' '}
-              January 1st,{' '}
+              $3333{' '}
             </span>
-            which will be published on{' '}
+            a month and is posted on{' '}
             <span className="bg-gradient-to-bl from-[#1f6c8a] to-[#34E89E] bg-clip-text font-semibold text-transparent">
-              January 15th.{' '}
+              TikTok, Linkedin, Instagram Reel and Twitter.{' '}
             </span>
             If you have any questions, feel free to{' '}
-            <Link href="/#contact">
+            <Link href="https://join.slack.com/t/luvgames/signup">
               <span className="cursor-pointer bg-gradient-to-tr from-[#1f6c8a] to-[#34E89E] bg-clip-text font-semibold text-transparent">
-                contact us
+                contact us&nbsp;
               </span>
             </Link>
-            .
+            On Slack.
             <br />
             <br />
             Click{' '}
-            <Link href="#sr">
+            <Link href="https://getwaitlist.com/waitlist/10739">
               <span className="cursor-pointer bg-gradient-to-br from-[#1f6c8a] to-[#34E89E] bg-clip-text font-semibold text-transparent">
                 here
               </span>
             </Link>{' '}
-            to scroll to the latest issue of the{' '}
-            <Link href="#sr">
+            to join our{' '}
+            <Link href="https://getwaitlist.com/waitlist/10739">
               <span className="cursor-pointer bg-gradient-to-tr from-[#1f6c8a] to-[#34E89E] bg-clip-text font-semibold text-transparent">
-                High School Journal of Biological Sciences Symposium
+                waitlist
               </span>
             </Link>
             .
@@ -84,12 +85,12 @@ export default function Journal() {
             className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-5xl md:leading-14"
             id="pr"
           >
-            Published Research
+            Purpose PR Campaigns
           </h1>
           {sortedPR.map((d, k) => (
             <div className="py-6" key={k}>
               <h2 className="pb-2 text-xl font-semibold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-2xl sm:leading-10 md:text-3xl md:leading-14">
-                High School Journal of Biological Sciences Issue {romans.romanize(d.issue)}
+                Learn more about our Luv Games benefits{romans.romanize(d.issue)}
               </h2>
               <div className="-m-4 flex flex-wrap">
                 {d.research.map((e, key) => (
