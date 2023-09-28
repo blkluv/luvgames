@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import Link from './Link'
-import Logo from '../public/static/images/blkluvorg.svg'
+import Image from 'next/image'
 import headerNavLinks from '@/data/headerNavLinks'
 
 const MobileNav = () => {
@@ -32,11 +32,7 @@ const MobileNav = () => {
           fill="currentColor"
           className="text-gray-900 dark:text-gray-100"
         >
-          <path
-            fillRule="evenodd"
-            d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z"
-            clipRule="evenodd"
-          />
+          {/* ... */}
         </svg>
       </button>
       <div
@@ -57,17 +53,17 @@ const MobileNav = () => {
               fill="currentColor"
               className="text-gray-900 dark:text-gray-100"
             >
-              <path
-                fillRule="evenodd"
-                d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z"
-                clipRule="evenodd"
-              />
+              {/* ... */}
             </svg>
           </button>
         </div>
         <nav className="fixed flex h-full w-full flex-col items-center justify-center gap-8 py-8">
+          {/* Provide the correct src, width, and height */}
+          <div className="mb-4">
+            <Image src="/static/images/blkluvorg.svg" alt="Logo" width={100} height={100} />
+          </div>
           <Link
-            href="/"
+            href="https://blkluv.org"
             key="home"
             className="select-none bg-transparent text-4xl font-semibold text-gray-900 dark:text-gray-100"
             onClick={onToggleNav}
