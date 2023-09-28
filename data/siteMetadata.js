@@ -12,16 +12,16 @@ const siteMetadata = {
   socialBanner: '/static/images/blkluvorg.png',
   email: 'info@blkluv.org',
   github: 'https://github.com/blkluv/luvgames',
-  twitter: 'https://twitter.com/',
-  facebook: 'https://facebook.com',
+  twitter: 'https://twitter.com/blkluvorg',
+  facebook: 'https://facebook.com/blkluvorg',
   youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  linkedin: 'https://www.linkedin.com/company/69191203',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
     // googleAnalytics
-    googleAnalyticsId: 'G-B5BRRT9X1T', // e.g. UA-000000-2 or G-XXXXXXX
+    googleAnalyticsId: '254557665', // e.g. UA-000000-2 or G-XXXXXXX
   },
 }
 

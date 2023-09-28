@@ -16,7 +16,7 @@ const LayoutWrapper = ({ children }) => {
   return (
     <>
       <Script
-        src="https://www.googletagmanager.com/gtag/js?id=G-B5BRRT9X1T"
+        src="https://www.googletagmanager.com/gtag/js?id=254557665"
         strategy="afterInteractive"
       ></Script>
       <Script id="google-analytics" strategy="afterInteractive">
@@ -25,7 +25,7 @@ const LayoutWrapper = ({ children }) => {
           function gtag(){dataLayer.push(arguments);}
           gtag('js', new Date());
 
-          gtag('config', 'G-B5BRRT9X1T');
+          gtag('config', '254557665');
           `}
       </Script>
       <PageSEO title={`${siteMetadata.author}`} description={siteMetadata.description} />
