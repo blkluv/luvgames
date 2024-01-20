@@ -18,22 +18,22 @@ const teamData = [
   },
   {
     name: 'Alicia Lindell',
-    role: 'hero',
+    role: 'heroes',
     img: alicia,
   },
   {
     name: 'Lamar Jackson',
-    role: 'hero',
+    role: 'heroes',
     img: lamar,
   },
   {
     name: 'Cameron Thomas',
-    role: 'hero',
+    role: 'heroes',
     img: cameron,
   },
   {
     name: 'James Henderson',
-    role: 'hero',
+    role: 'heroes',
     img: james,
   },
 ]

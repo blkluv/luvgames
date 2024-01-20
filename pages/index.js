@@ -141,10 +141,10 @@ const Home = ({ posts }) => {
             <div className="my-24 flex h-auto flex-col gap-6">
               <div>
                 <h1 className="mb-2 text-4xl font-extrabold leading-9 tracking-tight text-white dark:text-black xl:text-6xl">
-                  Our Heros
+                  Heroes
                 </h1>
                 <h2 className="text-md text-gray-100 dark:text-gray-800 xl:text-lg">
-                  Meet our recent heros who completed a quest.
+                  Meet our recent Heroes who completed a quest.
                 </h2>
               </div>
               <div className="flex flex-col items-center">

@@ -73,7 +73,7 @@ const advocacyData = [
     cause: `Heart Disease`,
     org: `American Heart Association`,
     steps: [
-      `Becoming a Heart Walk Hero by organizing a local group of walkers whose actions will help raise money for heart health research`,
+      `Becoming a Heart Walk Heroe by organizing a local group of walkers whose actions will help raise money for heart health research`,
       `Participating in research surveys and questionnaires and encouraging others to do the same in order to help advance research by providing the necessary data`,
       `Signing up to join the Go Red for Women movement which is a platform with the goal of increasing women's health heart awareness`,
     ],
