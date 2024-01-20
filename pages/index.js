@@ -110,27 +110,29 @@ const Home = ({ posts }) => {
         <div className="flex w-full flex-col items-center">
           <div className="mx-5 my-24 flex max-w-full flex-col gap-2 text-white dark:text-black">
             <h1 className="text-4xl font-extrabold leading-9 tracking-tight xl:text-6xl">
-              Our Purpose
+              PURPOSE ECONOMY
             </h1>
             <p className="text-lg text-gray-300 dark:text-gray-900 xl:mt-2 xl:text-xl">
-              We incentivize
+              We created the
               <span className="bg-gradient-to-tl from-[#1f6c8a] to-[#34E89E] bg-clip-text font-semibold text-transparent">
                 {' '}
-                gaming for good
+                Web5 purpose economy
               </span>{' '}
-              to help people around the world find their purpose and volunteer their time to assist
-              others locally, becoming the number one hero in their city.
+              to use blockchain and AI advanced technology to create solutions to a majority of Web2
+              challenges that include the housing crisis, unity and VC funding African Americans.
             </p>
             <MissionItems />
             <br />
             <br />
             <div className="flex flex-col gap-2" id="topics">
               <h1 className="text-3xl font-bold leading-9 tracking-tight xl:text-4xl">
-                Upcoming Quests
+                BLOCKCHAIN NON-PROFIT
               </h1>
               <p className="xl:text-lg">
-                Every month we have an event to discuss new quests with new brand partners who
-                contribute to our purpose.
+                As a heart-to-heart blockchain non-profit, we have eliminated ourselves as the
+                middleman, enabling our tribe to receive support and instant aid without our direct
+                involvement. Everyone who owns a LUV NFT is essentially a shareholder, ensuring that
+                we all win on Web5 united. Learn how to create spiritual currency by spreading $LUV.
               </p>
               <div className="grid h-auto grid-flow-col gap-2 overflow-x-scroll rounded-lg pb-2">
                 {topics}
@@ -199,19 +201,19 @@ const Home = ({ posts }) => {
           <div className="mx-5 my-24 flex w-full flex-col gap-8 rounded-lg p-4 text-black dark:text-white">
             <div>
               <h1 className="mb-2 text-4xl font-extrabold tracking-tight xl:text-5xl">
-                Join Our Purpose
+                Discover Your Purpose
               </h1>
               <p className="text-lg text-gray-900 dark:text-gray-300 xl:text-xl">
-                Join the reVULution on a mission to{' '}
+                AI will eventually take over the{' '}
                 <span className="bg-gradient-to-bl from-[#1f6c8a] to-[#34E89E] bg-clip-text font-semibold text-transparent">
-                  change the world.
+                  profit economy.
                 </span>{' '}
-                Join our team, and network like hearts around the world.{' '}
+                Level up to Web5, and learn how to monetize your biz in the purpose economy.{' '}
               </p>
             </div>
-            <Link className="w-min" href={'https://getwaitlist.com/waitlist/10739'}>
+            <Link className="w-min" href={'https://zealy.io/c/luvnft/questboard'}>
               <div className="w-min select-none whitespace-nowrap rounded-lg bg-gradient-to-tr from-[#1e7a9f] to-[#26c784] px-6 py-3 text-lg font-semibold text-gray-50 shadow-md shadow-[#0F3443] transition-[5s] ease-linear hover:hue-rotate-15 active:scale-95">
-                Join Waitlist
+                🏁 START
               </div>
             </Link>
             <div>

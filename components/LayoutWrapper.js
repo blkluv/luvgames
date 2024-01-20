@@ -73,18 +73,18 @@ const LayoutWrapper = ({ children }) => {
                   <div className="flex flex-col items-start gap-y-4 lg:gap-y-6 2xl:gap-y-8">
                     <div className="flex flex-col gap-y-2">
                       <h1 className="whitespace-pre bg-gradient-to-tl from-[#26c784] to-[#1e7a9f] bg-clip-text text-3xl font-bold leading-8 tracking-tighter text-transparent sm:text-4xl lg:text-5xl 2xl:text-6xl">
-                        $LUV is the
+                        ONE $LUV POWERS
                         <br />
-                        Universal Basic Income
+                        THE PURPOSE ECONONOMY
                       </h1>
                       <h2 className="text-base font-medium leading-6 tracking-tighter dark:text-gray-300 sm:text-base lg:text-lg 2xl:text-2xl">
-                        Earn $LUV by completing our tribe called quests. We have 1 billion in $LUV
-                        minted to airdrop to our tribe.
+                        $LUV allows us to ID who has a heart. Barter $LUV for trusted Web5 services.
+                        Earn ONE $LUV by completing our tribe called quests. IN LUV WE TRUST
                       </h2>
                     </div>
-                    <NLink href={'https://getwaitlist.com/waitlist/10739'} passHref={true}>
+                    <NLink href={'https://zealy.io/c/luvnft/questboard'} passHref={true}>
                       <div className="w-min cursor-pointer select-none whitespace-nowrap rounded-xl bg-gradient-to-tr from-[#1e7a9f] to-[#26c784] px-4 py-3 text-base font-semibold tracking-tight text-gray-50 shadow-md shadow-[#0F3443] transition-[5s] ease-linear hover:hue-rotate-15 active:scale-95 lg:px-6 lg:text-lg 2xl:text-xl">
-                        Join Waitlist
+                        🏁 LEVEL UP
                       </div>
                     </NLink>
                   </div>
