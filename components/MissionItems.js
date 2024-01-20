@@ -28,6 +28,7 @@ const MissionItems = () => {
             Bypass social media algorithms with a universal Web5 link connecting all our tribe-owned platforms. Redeem $LUV for an ad link on our Linktree, ensuring 100% business visibility.
           </p>
         </div>
+
         <div className="flex flex-col gap-2">
           <div className="flex flex-row items-center gap-3">
             <svg
@@ -41,7 +42,7 @@ const MissionItems = () => {
               <path
                 strokeLinecap="round"
                 strokeLinejoin="round"
-                d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4"
+                d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110-4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4"
               />
             </svg>
             <h1 className="text-xl font-bold xl:text-2xl">
@@ -49,9 +50,10 @@ const MissionItems = () => {
             </h1>
           </div>
           <p className="text-gray-300 dark:text-gray-900 xl:text-lg">
-            We solved the advertising disparity for unfunded businesses with affordable Arvrtising campaigns. Our <a href="https://ateam.arvrtise.com"> A-TEAM</a> PPV Discord allows pros, brands and masterminds to earn more with no algorithms.
+            We solved the advertising disparity for unfunded businesses with affordable Arvrtising campaigns. Our <a href="https://ateam.arvrtise.com">A-TEAM</a> PPV Discord allows pros, brands, and masterminds to earn more with no algorithms.
           </p>
         </div>
+
         <div className="flex flex-col gap-2">
           <div className="flex flex-row items-center gap-3">
             <svg
@@ -73,9 +75,10 @@ const MissionItems = () => {
             </h1>
           </div>
           <p className="text-gray-300 dark:text-gray-900 xl:text-lg">
-            We solved the housing crisis with Instant Bitcoin $RNT relief, tokenized Bitcoin LNE [LUV NFT ESTATE] and affordable homes NFTs. Subscribe to learn blockchain.
+            We solved the housing crisis with Instant Bitcoin $RNT relief, tokenized Bitcoin LNE [LUV NFT ESTATE], and affordable homes NFTs. Subscribe to learn blockchain.
           </p>
         </div>
+
         <div className="flex flex-col gap-2">
           <div className="flex flex-row items-center gap-3">
             <svg
@@ -102,6 +105,7 @@ const MissionItems = () => {
             We created the first Hair Metaverse, enabling unfunded hair stylists to embrace blockchain, taking ownership of their tokenized services and hair estate mapped to their chair using What3Words.
           </p>
         </div>
+
         <div className="flex flex-col gap-2">
           <div className="flex flex-row items-center gap-3">
             <svg
