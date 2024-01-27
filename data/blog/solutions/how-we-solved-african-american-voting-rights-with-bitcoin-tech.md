@@ -1,8 +1,8 @@
 ---
 title: 'How We Solved African American Voting Rights Using Bitcoin Technology'
 date: '1/27/24'
-authors: ['hahz terry']
-tags: ['voting', 'nostr', 'bitcoin','blockchain']
+authors: ['hahz']
+tags: ['voting', 'nostr', 'bitcoin', 'blockchain']
 draft: false
 summary: "Give us the ballot, and we will transform the salient misdeeds of bloodthirsty mobs into the calculated good deeds of orderly citizens. - Martin Luther King Jr.'s"
 ---
@@ -17,9 +17,9 @@ The number of Black eligible voters in the United States is projected to reach 3
 
 # Vote
 
-![cpf](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzB2aTAwaTc3aGJlam80cjQ5MWRoc2xjbnh4bzhucmFpa3o1cXRhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11OQRFijlncwq4/giphy.gif
+![cpf](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzB2aTAwaTc3aGJlam80cjQ5MWRoc2xjbnh4bzhucmFpa3o1cXRhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11OQRFijlncwq4/giphy.gif)
 
 We will verify our own voting numbers using trusted decentralized Bitcoin technology and tokenize the polling data results so that everyone in the world can see it. We can no longer accept any voting data on any topic as validation of what we stand for. Billions have been donated to fight for African american voting rights now that we created a solution let's invest that funding into building affordable tokenized LUV NFT ESTATE homes.
 
-<https://vote.luvnft.com>
-Follow us on social media <https://linktr.ee/luvnft> share our solutions.
+[Vote Here](https://vote.luvnft.com)
+Follow us on social media [here](https://linktr.ee/luvnft) and share our solutions.

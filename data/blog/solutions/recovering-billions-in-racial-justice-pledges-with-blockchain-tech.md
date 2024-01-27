@@ -1,7 +1,7 @@
 ---
 title: 'The Solution To Recovering Billions In Racial Justice Pledges With Blockchain Tech'
 date: '1/27/24'
-authors: ['hahz terry']
+authors: ['hahz']
 tags: ['racial justice', 'blockchain']
 draft: false
 summary: "Only 40% of the $350 Billion pledged in 2000-2002 were accounted for, learn the blockchain solution."
