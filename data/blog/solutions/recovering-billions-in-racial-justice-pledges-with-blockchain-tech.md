@@ -19,10 +19,10 @@ In 2024 we will no longer invest our energy spiritually in reading any more arti
 
 ![unacceptable](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBibWdocm1vbWI0NHg5ZG9zNWNqbTl1am9pa2JncGxpYjQwZGR4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b4TxDcjIXlnMTS/giphy.gif)
 
-$340 billion pledged by companies to support racial equity following George Floyd’s murder. Four years after George Floyd’s murder, McKinsey & Co. has found that $340 billion has been publicly announced by companies to support racial equity and justice. The root of all of these pledges being invested back into the root of the source of the problem is why no one is solving anything or no one knowing where all of the money is going because it's not helping the masses severly effected by the racial inquality in America that is profiting from the problems companies are donating to solve.
+$340 billion pledged by companies to support racial equity following George Floyd’s murder. Four years after George Floyd’s murder, McKinsey & Co. has found that $340 billion has been publicly announced by companies to support racial equity and justice. The root of all of these pledges being invested back into the root of the source of the problem is why no one is solving anything or no one knowing where all of the money is going because it's not helping the masses severely affected by the racial inequality in America that is profiting from the problems companies are donating to solve.
 
-* 40% of 1,369 Fortune 1000 companies have made public statements about racial justice between May 2020 and October 2022. This means that approximately 548 companies have made pledges toward racial equity. Be the first person to complete the quest of creating the full list[here](https://zealy.io/c/luvnft/questboard/) 
-  
+* 40% of 1,369 Fortune 1000 companies have made public statements about racial justice between May 2020 and October 2022. This means that approximately 548 companies have made pledges toward racial equity. Be the first person to complete the quest of creating the full list [here](https://zealy.io/c/luvnft/questboard/) 
+
 * Companies have pledged a combined $340 billion toward racial equity over that same period.
   
 * Since May 2021, pledges have become vaguer, making it harder to track what specific initiatives the money is going toward.
@@ -51,7 +51,7 @@ Pledged and Donated:
 * Intel: Pledged $100 million and donated $10 million to the NAACP Legal Defense and Educational Fund.
 * Johnson & Johnson: Pledged $100 million and donated $10 to ?
 
-Be the first person to complete the quest of creating the full list[here](https://zealy.io/c/luvnft/questboard/) 
+Be the first person to complete the quest of creating the full list [here](https://zealy.io/c/luvnft/questboard/) 
 
 Out of all of these donations 50% of the pledges went to two of four non-profits.
 
@@ -63,7 +63,7 @@ Allegedly used the $52 million in pledges to support its work on a variety of is
 
 * In 2021, The Washington Post fact-checked a claim that the NAACP Legal Defense and Educational Fund had used donations to pay for luxury travel and other expenses. The Post found that the claim was false, and that the organization had used the donations to support its mission of fighting for racial justice.
 
-##  The Washington Post x NAACP Legal Defense and Educational Fund Ties! 🤝
+## The Washington Post x NAACP Legal Defense and Educational Fund Ties! 🤝
 
 ### Donations: 
 
@@ -71,14 +71,13 @@ The Washington Post has made donations to the NAACP LDF in the past. For example
 
 ### Other: 
 
-    In 2020, The Washington Post and the NAACP LDF co-hosted a virtual event on voting rights. The event featured a panel discussion with NAACP LDF President and Director-Counsel Sherrilyn Ifill and other experts on voting rights.
+- In 2020, The Washington Post and the NAACP LDF co-hosted a virtual event on voting rights. The event featured a panel discussion with NAACP LDF President and Director-Counsel Sherrilyn Ifill and other experts on voting rights.
 
-    In 2021, The Washington Post published a series of articles about the NAACP LDF's work on criminal justice reform. The series highlighted the NAACP LDF's efforts to challenge excessive sentencing laws, provide legal representation to indigent defendants, and advocate for reforms that will make the criminal justice system more fair and just.
+- In 2021, The Washington Post published a series of articles about the NAACP LDF's work on criminal justice reform. The series highlighted the NAACP LDF's efforts to challenge excessive sentencing laws, provide legal representation to indigent defendants, and advocate for reforms that will make the criminal justice system more fair and just.
 
-    In 2022, The Washington Post published an article about the NAACP LDF's work to promote education equity. The article discussed the NAACP LDF's efforts to challenge school segregation, provide legal representation to students who have been discriminated against, and advocate for policies that will ensure that all students have access to a quality education.
+- In 2022, The Washington Post published an article about the NAACP LDF's work to promote education equity. The article discussed the NAACP LDF's efforts to challenge school segregation, provide legal representation to students who have been discriminated against, and advocate for policies that will ensure that all students have access to a quality education.
 
 Overall, The Washington Post and the NAACP LDF have a strong and mutually supportive relationship. They have worked together on a number of important issues, and they share a common commitment to fighting for racial justice and equality.
-
 
 # The National Urban League
 
@@ -92,11 +91,11 @@ The National Urban League has not yet released any information on how the $130M 
 
 PolitiFact and The National Urban League have partnered on a number of projects, including a series of fact-checking articles about the 2020 presidential election.
 
-In 2020, PolitiFact and The National Urban League partnered on a series of fact-checking articles about the 2020 presidential election. The articles focused on claims made by both candidates about issues such as the economy, healthcare, and racial justice.
+- In 2020, PolitiFact and The National Urban League partnered on a series of fact-checking articles about the 2020 presidential election. The articles focused on claims made by both candidates about issues such as the economy, healthcare, and racial justice.
 
-In 2021, PolitiFact fact-checked a claim made by National Urban League President and CEO Marc Morial about the impact of the COVID-19 pandemic on Black Americans. PolitiFact found that Morial's claim was accurate.
+- In 2021, PolitiFact fact-checked a claim made by National Urban League President and CEO Marc Morial about the impact of the COVID-19 pandemic on Black Americans. PolitiFact found that Morial's claim was accurate.
 
-In 2022, PolitiFact fact-checked a claim made by National Urban League Senior Vice President for Policy and Advocacy Dominique Baker about the racial wealth gap in the United States. PolitiFact found that Baker's claim was accurate.
+- In 2022, PolitiFact fact-checked a claim made by National Urban League Senior Vice President for Policy and Advocacy Dominique Baker about the racial wealth gap in the United States. PolitiFact found that Baker's claim was accurate.
 
 ![sus](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTV5bzh1dWhucGJqdWh6cDJrZHM0cTZpdDk5ZnI0NWdxaGd6YXl5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JDL3N7AKAnQlluaq4o/giphy.gif)
 
@@ -104,20 +103,17 @@ In 2022, PolitiFact fact-checked a claim made by National Urban League Senior Vi
 
 The solution is simple we tokenize all pledges as a LUV NFT that will be auctioned on the blockchain. We match every donation 1-for-1 with ONE $LUV currency and set up a (BIZ NAME).LUV trust for the 1,369 fortune 1000 companies to donate the remainder of the pledges owed on blockchain. 
 
-We provide rent relief with our Bitcoin rental currency ![$RNT](https://rnt.luvnft.com to any LUV NFT Discord subscriber who provides proof of needing assistance. 
+We provide rent relief with our Bitcoin rental currency [![$RNT](https://rnt.luvnft.com)](https://rnt.luvnft.com) to any LUV NFT Discord subscriber who provides proof of needing assistance. 
 
 We only support companies that have verified on blockchain their love for us:
 
-By fulfilling their REJ pledges
-
- Accepting our ONE $LUV UBI (universal basic income) as credit for assistance to aid humanity dealing with inflation caused by the for profit economy.
+- By fulfilling their REJ pledges
+- Accepting our ONE $LUV UBI (universal basic income) as credit for assistance to aid humanity dealing with inflation caused by the for-profit economy.
 
 We use the money recovered to:
 
-Build affordable ADU homes that accept Bitcoin $RNT 
+- Build affordable ADU homes that accept Bitcoin $RNT 
+- Distribute food relief locally
+- Educate our tribe how to play blockchain [TOKENOPOLY](https://tokenopoly.luvnft.com) to learn this advanced tech in a fun way.
 
-Distribute food relief locally
-
-Educate our tribe how to play blockchain [TOKENOPOLY](https://tokenopoly.luvnft.com to learn this advanced tech in a fun way.
-
-[Easy](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZ2emplazMydWhhejBjcmtkMzB6YXd2YmRzNDNiMWgzemMwdjkwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3hrLxUpp67IpmpZT1h/giphy.gif 
+![Easy](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZ2emplazMydWhhejBjcmtkMzB6YXd2YmRzNDNiMWgzemMwdjkwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3hrLxUpp67IpmpZT1h/giphy.gif)
