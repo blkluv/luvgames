@@ -40,9 +40,9 @@ export default function Footer() {
           </div>
         </div>
         <div className="mb-8 text-center text-sm text-gray-500 dark:text-gray-400">
-          LUV NFT{' '}
-          <Link href="https://luvnft.com" className="underline">
-            Sign up.
+          LUV NFT PPV Discord{' '}
+          <Link href="https://luvgames.luvnft.com" className="underline">
+            Subscribe
           </Link>
         </div>
       </div>

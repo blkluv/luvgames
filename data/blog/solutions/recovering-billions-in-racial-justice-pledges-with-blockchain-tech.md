@@ -11,13 +11,14 @@ summary: "Only 40% of the $350 Billion pledged in 2000-2002 were accounted for, 
 
 As a Blockchain nonprofit infusing spiritual and tech, we solve Web2 issues on the spiritual level first. In 2024, we're no longer spending our spiritual energy of currency on reading click-bait fear frequency articles about African American issues backed by statistics no one can validate. 
 
-![Evil](https://tenor.com/view/evil-dontyou-gif-5071039)
+![Evil](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZmbzdha2N1Y3J4OGRxb3Z0cnAzZGs5bGpmM242Znl2MjJzbng4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n9mwOcfUdkijK/giphy.gif)
 
 The only statistic that we can verify understanding the universal law of belief, when we believe we have a problem we created that problem in our world 100% of the time.
 
 In 2024 we will no longer invest our energy spiritually in reading any more articles or headlines regarding African American problems knowing that when we believe we have a problem we create it in our world. All of those problems that we once believed no longer exist in our Web5 for purpose economy. 
 
 ![unacceptable](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBibWdocm1vbWI0NHg5ZG9zNWNqbTl1am9pa2JncGxpYjQwZGR4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b4TxDcjIXlnMTS/giphy.gif)
+
 
 $340 billion pledged by companies to support racial equity following George Floyd’s murder. Four years after George Floyd’s murder, McKinsey & Co. has found that $340 billion has been publicly announced by companies to support racial equity and justice. The root of all of these pledges being invested back into the root of the source of the problem is why no one is solving anything or no one knowing where all of the money is going because it's not helping the masses severely affected by the racial inequality in America that is profiting from the problems companies are donating to solve.
 
@@ -29,27 +30,43 @@ $340 billion pledged by companies to support racial equity following George Floy
 
 ![Show me the money](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlxNGczd3Jtend1NnlvZWxxdWRocno3amRvdjhweWY3dHZ0ZDNzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9HQRIttS5C4Za/giphy.gif)
 
+
 Companies that pledged, donated, and didn't donate to racial justice causes following the death of George Floyd, with amounts:
 
 Pledged and Donated:
 
-* Amazon: Pledged $10 million and donated $1 million to the NAACP Legal Defense and Educational Fund.
-* Apple: Pledged $100 million and donated $10 million to the Equal Justice Initiative.
-* Bank of America: Pledged $1 billion and donated $100 million to the National Urban League.
-* Ben & Jerry's: Pledged $250,000 and donated $100,000 to the Black Lives Matter Global Network Foundation.
-* BlackRock: Pledged $100 million and donated $10 million to the NAACP Legal Defense and Educational Fund.
-* Boeing: Pledged $10 million and donated $1 million to the National Urban League.
-* Cisco Systems: Pledged $5 million and donated $1 million to the NAACP Legal Defense and Educational Fund.
-* Coca-Cola: Pledged $50 million and donated $10 million to the National Urban League.
-* Comcast: Pledged $100 million and donated $10 million to the NAACP Legal Defense and Educational Fund.
-* CVS Health: Pledged $50 million and donated $10 million to the National Urban League.
-* Dell Technologies: Pledged $10 million and donated $1 million to the NAACP Legal Defense and Educational Fund.
-* Disney: Pledged $100 million and donated $10 million to the NAACP Legal Defense and Educational Fund.
-* Facebook: Pledged $100 million and donated $10 million to the NAACP Legal Defense and Educational Fund.
-* Google: Pledged $250 million and donated $10 million to the NAACP Legal Defense and Educational Fund.
-* IBM: Pledged $100 million and donated $10 million to the NAACP Legal Defense and Educational Fund.
-* Intel: Pledged $100 million and donated $10 million to the NAACP Legal Defense and Educational Fund.
-* Johnson & Johnson: Pledged $100 million and donated $10 to ?
+Amazon: Pledged $10 million and donated $1 million to the NAACP Legal Defense and Educational Fund.
+
+Apple: Pledged $100 million and donated $10 million to the Equal Justice Initiative.
+
+Bank of America: Pledged $1 billion and donated $100 million to the National Urban League.
+
+Ben & Jerry's: Pledged $250,000 and donated $100,000 to the Black Lives Matter Global Network Foundation.
+
+BlackRock: Pledged $100 million and donated $10 million to the NAACP Legal Defense and Educational Fund.
+
+Boeing: Pledged $10 million and donated $1 million to the National Urban League.
+
+Cisco Systems: Pledged $5 million and donated $1 million to the NAACP Legal Defense and Educational Fund.
+
+Coca-Cola: Pledged $50 million and donated $10 million to the National Urban League.
+
+Comcast: Pledged $100 million and donated $10 million to the NAACP Legal Defense and Educational Fund.
+
+CVS Health: Pledged $50 million and donated $10 million to the National Urban League.
+Dell Technologies: Pledged $10 million and donated $1 million to the NAACP Legal Defense and Educational Fund.
+
+Disney: Pledged $100 million and donated $10 million to the NAACP Legal Defense and Educational Fund.
+
+Facebook: Pledged $100 million and donated $10 million to the NAACP Legal Defense and Educational Fund.
+
+Google: Pledged $250 million and donated $10 million to the NAACP Legal Defense and Educational Fund.
+
+IBM: Pledged $100 million and donated $10 million to the NAACP Legal Defense and Educational Fund.
+
+Intel: Pledged $100 million and donated $10 million to the NAACP Legal Defense and Educational Fund.
+
+Johnson & Johnson: Pledged $100 million and donated $10 million to [organization not specified].
 
 Be the first person to complete the quest of creating the full list [here](https://zealy.io/c/luvnft/questboard/) 
 
@@ -103,7 +120,7 @@ PolitiFact and The National Urban League have partnered on a number of projects,
 
 The solution is simple we tokenize all pledges as a LUV NFT that will be auctioned on the blockchain. We match every donation 1-for-1 with ONE $LUV currency and set up a (BIZ NAME).LUV trust for the 1,369 fortune 1000 companies to donate the remainder of the pledges owed on blockchain. 
 
-We provide rent relief with our Bitcoin rental currency [![$RNT](https://rnt.luvnft.com)](https://rnt.luvnft.com) to any LUV NFT Discord subscriber who provides proof of needing assistance. 
+We provide rent relief with our Bitcoin rental currency [$RNT](https://rnt.luvnft.com) to any LUV NFT Discord subscriber who provides proof of needing assistance. 
 
 We only support companies that have verified on blockchain their love for us:
 
