@@ -141,7 +141,7 @@ const Home = ({ posts }) => {
             <div className="my-24 flex h-auto flex-col gap-6">
               <div>
                 <h1 className="mb-2 text-4xl font-extrabold leading-9 tracking-tight text-white dark:text-black xl:text-6xl">
-                  Heroes
+                  HEROES
                 </h1>
                 <h2 className="text-md text-gray-100 dark:text-gray-800 xl:text-lg">
                   Meet our recent Heroes who completed a quest.
@@ -201,7 +201,7 @@ const Home = ({ posts }) => {
           <div className="mx-5 my-24 flex w-full flex-col gap-8 rounded-lg p-4 text-black dark:text-white">
             <div>
               <h1 className="mb-2 text-4xl font-extrabold tracking-tight xl:text-5xl">
-                Discover Your Purpose
+                FIND YOUR PURPOSE
               </h1>
               <p className="text-lg text-gray-900 dark:text-gray-300 xl:text-xl">
                 AI will eventually take over the{' '}
@@ -218,7 +218,7 @@ const Home = ({ posts }) => {
             </Link>
             <div>
               <h1 className="mb-2 text-4xl font-extrabold tracking-tight xl:text-5xl">
-                Become a partner
+                PARTNER
               </h1>
               <p className="text-lg text-gray-900 dark:text-gray-300 xl:text-xl">
                 Need some purpose PR marketing?{' '}
@@ -236,7 +236,7 @@ const Home = ({ posts }) => {
             </Link>
             <div>
               <h1 className="mb-2 text-3xl font-extrabold leading-9 tracking-tight xl:text-4xl">
-                Top 3 Donors
+                TOP 3 DONORS
               </h1>
               <div className="flex flex-col items-center rounded-2xl bg-white px-4 py-2 drop-shadow-lg">
                 <PartnerRow />
@@ -247,7 +247,7 @@ const Home = ({ posts }) => {
               id="contact"
             >
               <h1 className="mb-2 text-3xl font-extrabold leading-9 tracking-tight md:text-4xl xl:text-5xl">
-                Contact Us
+                CONTACT
               </h1>
               <ContactForm />
             </div>
@@ -290,7 +290,7 @@ const Home = ({ posts }) => {
         <div className="mx-5 my-24 divide-y divide-gray-700 dark:divide-gray-200">
           <div className="space-y-2 pt-6 pb-8 md:space-y-5">
             <h1 className="text-5xl font-extrabold leading-9 tracking-tight text-gray-100 dark:text-gray-900 sm:leading-10 xl:text-6xl xl:leading-14">
-              Latest Solutions
+              LATEST SOLUTIONS
             </h1>
             <p className="text-lg leading-7 text-gray-400 dark:text-gray-500">
               Catch up on our latest solutions! Learn how the purpose economy works for you.
