@@ -77,8 +77,9 @@ const LayoutWrapper = ({ children }) => {
                         <br />
                         BLK LUV ORG
                       </h1>
-                      <h2 className="text-base font-medium leading-6 tracking-tighter dark:text-gray-300 sm:text-base lg:text-lg 2xl:text-2xl">
-                      We use blockchain tech to create transparency in non-profits by tokenizing pledges as LUV NFTs and matching donations with our ONE $LUV UBI currency.
+                      <h2 class="text-base font-medium leading-6 tracking-tighter dark:text-gray-300 sm:text-base lg:text-lg 2xl:text-2xl">
+                        We use blockchain tech to create transparency in non-profits by tokenizing
+                        pledges as LUV NFTs and matching donations with our ONE $LUV UBI currency.
                       </h2>
                     </div>
                     <NLink href={'https://zealy.io/c/luvnft/questboard'} passHref={true}>
