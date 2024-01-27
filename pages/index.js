@@ -290,11 +290,10 @@ const Home = ({ posts }) => {
         <div className="mx-5 my-24 divide-y divide-gray-700 dark:divide-gray-200">
           <div className="space-y-2 pt-6 pb-8 md:space-y-5">
             <h1 className="text-5xl font-extrabold leading-9 tracking-tight text-gray-100 dark:text-gray-900 sm:leading-10 xl:text-6xl xl:leading-14">
-              Latest Reads
+              Latest Solutions
             </h1>
             <p className="text-lg leading-7 text-gray-400 dark:text-gray-500">
-              Catch up on the latest blog posts! Every month the topic of our blog posts focus on a
-              different disease. New blog posts every week, don't miss out!
+              Catch up on our latest solutions! Learn how the purpose economy works for you.
             </p>
           </div>
           <ul className="divide-y divide-gray-700 dark:divide-gray-200">

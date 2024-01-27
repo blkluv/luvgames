@@ -73,13 +73,12 @@ const LayoutWrapper = ({ children }) => {
                   <div className="flex flex-col items-start gap-y-4 lg:gap-y-6 2xl:gap-y-8">
                     <div className="flex flex-col gap-y-2">
                       <h1 className="whitespace-pre bg-gradient-to-tl from-[#26c784] to-[#1e7a9f] bg-clip-text text-3xl font-bold leading-8 tracking-tighter text-transparent sm:text-4xl lg:text-5xl 2xl:text-6xl">
-                        ONE $LUV POWERS
+                        IN $LUV WE TRUST
                         <br />
-                        THE PURPOSE ECONOMY
+                        BLK LUV ORG
                       </h1>
                       <h2 className="text-base font-medium leading-6 tracking-tighter dark:text-gray-300 sm:text-base lg:text-lg 2xl:text-2xl">
-                        $LUV allows us to ID who has a heart. Barter $LUV for trusted Web5 services.
-                        Earn ONE $LUV by completing our tribe called quests. IN LUV WE TRUST
+                      We use blockchain tech to create transparency in non-profits by tokenizing pledges as LUV NFTs and matching donations with our ONE $LUV UBI currency.
                       </h2>
                     </div>
                     <NLink href={'https://zealy.io/c/luvnft/questboard'} passHref={true}>
